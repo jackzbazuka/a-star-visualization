@@ -1,4 +1,4 @@
-# A-star-visualization
+# a-star-visualization
 Visualisation of A-star pathfinding algorithm
 
 A-star is an algorithm to traverse graph and search a path between two nodes with minimum cost.
