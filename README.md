@@ -5,7 +5,7 @@ A-star is an algorithm to traverse graph and search a path between two nodes wit
 
 Processing is a library for visual arts, built for learning to code visually.
 
-This is a processing sketch made in java edition. So in order to run it you have to download it from [here](https://processing.org/download/).
+This is a processing sketch made in java edition. So in order to run it you have to download processing from [here](https://processing.org/download/).
 
 I've maintained a separate file for individual cells of the grid i.e. `Cell.pde`
 
