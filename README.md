@@ -1,6 +1,8 @@
 # A-star-pathfinding-visualization
 Visualisation of A-star pathfinding algorithm
 
+A-star is an algorithm to traverse graph and search a path between two nodes with minimum cost.
+
 Processing is a library for visual arts, built for learning to code visually.
 
 This is a processing sketch made in java edition. So in order to run it you have to download it from [here](https://processing.org/download/).
