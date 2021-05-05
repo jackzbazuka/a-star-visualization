@@ -23,4 +23,4 @@ These are the parameters you can change in the sketch to observe different grid 
 
 ### Anomalies
 
-Since the generation of walls depends on a random function, the risks of start and end block to be completely unreachable is directly proportional to the probability of a cell being wall which is managed by the difficulty parameter.
+Since the generation of walls depends on a random function, the risk of start and end block being completely unreachable is directly proportional to the probability of a cell being wall which is managed by the difficulty parameter.
