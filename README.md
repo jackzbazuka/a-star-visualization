@@ -21,7 +21,7 @@ These are the parameters you can change in the sketch to observe different grid 
 
 - End point: on line 66 of `Astar_pathfinding.pde`
 
-**Note: The start and end points should remain inside the grid size, else the program will crash**
+**Note: The start and end points should remain within the grid, else the program will crash**
 
 ### Anomalies
 
